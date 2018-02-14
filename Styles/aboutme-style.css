@@ -1,0 +1,59 @@
+body {
+	background-color: #455A64	;
+	color: #F0D51D;
+	font-family:"Century";
+	font-size: 20px;
+	text-align: center;
+}
+h1{
+	font-family: "Century";
+	font-style: italic;
+	color: #DDD;
+}
+h2{
+	color: #DDD;
+	margin-left: 20px;
+	
+}
+p{
+	margin: 10px;
+	align-content: center;
+}
+div.gallery{
+    box-sizing: border-box;
+    float: left;
+    width: 48%px;
+    margin-left: 30px;
+    border: 1px solid #ccc;
+   
+
+}
+
+div.just{
+	box-sizing: border-box;
+	margin: 10px;
+	float: left;
+    width: 100%;
+	color: #0628F9;
+	
+
+
+ }
+div.paragraph{
+	box-sizing: border-box;
+	margin: 35px;
+	float: left;
+    width: 100%;
+	color: #F9EB06;
+    align-content: center; 
+}
+div.moods{
+	margin: 10px;
+	margin-left:15%;
+	float: left;
+	align-content: center;
+ 
+}
+
+
+ 
